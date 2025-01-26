@@ -1,0 +1,1 @@
+console.log('Welcome to Gamers’ Lounge! Your go-to gaming platform.');
